@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "lcdnamerotate", "lcdnamerotate\lcdnamerotate.cppproj", "{ED5868BB-4D28-49C7-8A7A-AA8AD885BD62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED5868BB-4D28-49C7-8A7A-AA8AD885BD62}.Debug|AVR.ActiveCfg = Debug|AVR
+		{ED5868BB-4D28-49C7-8A7A-AA8AD885BD62}.Debug|AVR.Build.0 = Debug|AVR
+		{ED5868BB-4D28-49C7-8A7A-AA8AD885BD62}.Release|AVR.ActiveCfg = Release|AVR
+		{ED5868BB-4D28-49C7-8A7A-AA8AD885BD62}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
